@@ -12,7 +12,7 @@ sometimes a web encoder/decoder is slow so why not run it locally ? its just mor
 
 first clone this repo while also ensuring that you have python
 after you clone this repo you should change directory to the repo you just cloned by using cd
-and then run with python Encoding-toolkits.py or python3 Encoding-toolkits.py
+and then run with python encoding-toolkits.py or python3 encoding-toolkits.py
 thats it!
 
 ## To-do list
