@@ -18,4 +18,4 @@ thats it!
 ## To-do list
 * Add an auto-detect function so I don't have to manually type the selection every time
 * Add support for mass encoding/decoding whole text files
-✔️ Add a while loop so it doesnt auto exit. (except if it crashes)
+* ✔️ Add a while loop so it doesnt auto exit. (except if it crashes)
