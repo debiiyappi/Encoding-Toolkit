@@ -16,6 +16,6 @@ and then run with python encoding-toolkits.py or python3 encoding-toolkits.py
 thats it!
 
 ## To-do list
-[*] Add an auto-detect function so I don't have to manually type the selection every time
-[*] Add support for mass encoding/decoding whole text files
-[✅] Add a while loop so it doesnt auto exit. (except if it crashes)
+* Add an auto-detect function so I don't have to manually type the selection every time
+* Add support for mass encoding/decoding whole text files
+✔️ Add a while loop so it doesnt auto exit. (except if it crashes)
